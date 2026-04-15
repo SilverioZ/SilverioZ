@@ -11,7 +11,7 @@
 
 🛠️ Tech Stack
 Languages & Frameworks
-<p align="left"
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
   </a>
@@ -42,7 +42,7 @@ Languages & Frameworks
 </p>
 
 Backend & Databases
-
+<p align="left">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS" />
   </a>
@@ -58,10 +58,11 @@ Backend & Databases
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB" />
   </a>
+</p>
   
 
 Tools & Platforms
-
+<p align:'left'>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" />
   </a>
@@ -77,6 +78,7 @@ Tools & Platforms
   <a href="https://wordpress.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="WordPress" title="WordPress" />
   </a>
+</p>
 
 
 🌐 Socials
