@@ -11,7 +11,7 @@
 
 🛠️ Tech Stack
 Languages & Frameworks
-<div style="inline:block">
+<p align="left"
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
   </a>
@@ -39,7 +39,7 @@ Languages & Frameworks
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" />
   </a>
-</div>
+</p>
 
 Backend & Databases
 
