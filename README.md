@@ -39,7 +39,7 @@ Languages & Frameworks
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" />
   </a>
-</p>
+
 Backend & Databases
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
