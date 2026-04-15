@@ -11,17 +11,14 @@
 
 🛠️ Tech Stack
 Languages & Frameworks
-<div>
+<div style='display:block'>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
   </a>
-</div>
-<div>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" />
   </a>
-</div>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
