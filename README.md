@@ -9,7 +9,6 @@
   📚 Currently learning: <strong>JavaScript: The Advanced Concepts</strong>
 </p>
 
-Here it is all together in one block:
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
@@ -24,7 +23,7 @@ Here it is all together in one block:
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="36" height="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" />
 
-🌐 Socials
+## 🌐 Socials
 <p align="left">
   <a href="https://www.github.com/SilverioZ" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -43,7 +42,7 @@ Here it is all together in one block:
   </a>
 </p>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="left">
   <a href="http://www.github.com/SilverioZ">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=SilverioZ&show_icons=true&count_private=true&title_color=facc15&text_color=22c55e&icon_color=14b8a6&bg_color=000000&hide_border=true&cache_seconds=1800" alt="SilverioZ's GitHub stats" />
@@ -60,7 +59,7 @@ Here it is all together in one block:
   </a>
 </p>
 
-📌 Top Repositories
+## 📌 Top Repositories
 <p align="left">
   <a href="https://github.com/SilverioZ/smart-brain">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SilverioZ&repo=smart-brain&title_color=facc15&text_color=22c55e&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&cache_seconds=1800" alt="smart-brain" />
